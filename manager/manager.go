@@ -4,9 +4,9 @@ import (
 	"net/http"
 
 	"github.com/gorilla/sessions"
-	"github.com/qor/middlewares"
-	"github.com/qor/session"
-	"github.com/qor/session/gorilla"
+	"github.com/itech-eng/middlewares"
+	"github.com/itech-eng/session"
+	"github.com/itech-eng/session/gorilla"
 )
 
 // SessionManager default session manager
